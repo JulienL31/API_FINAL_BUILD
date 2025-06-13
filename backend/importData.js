@@ -2,9 +2,9 @@ const mongoose = require('mongoose');
 const dotenv = require('dotenv');
 const fs = require('fs');
 const bcrypt = require('bcrypt');
-const Catway = require('./models/catway.model');
-const Reservation = require('./models/reservation.model');
-const User = require('./models/user.model');
+const Catway = require('./models/Catway');
+const Reservation = require('./models/Reservation');
+const User = require('./models/User');
 const connectDB = require('./config/db');
 
 dotenv.config();
