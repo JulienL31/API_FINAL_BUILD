@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: russell-catways-backend
+    env: node
+    plan: free
+    rootDir: backend
+    buildCommand: npm install
+    startCommand: node server.js
+    envVars:
+      - key: MONGO_URI
+        value: "À REMPLACER"
+      - key: JWT_SECRET
+        value: "À REMPLACER"
