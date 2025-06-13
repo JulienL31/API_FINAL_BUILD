@@ -82,7 +82,7 @@ function Home() {
 
           <div className="has-text-centered mt-4">
             <a
-              href="http://https://api-final-build.onrender.com/api-docs:5000/api-docs"
+              href="https://api-final-build.onrender.com/api-docs"
               className="button is-info is-light"
               target="_blank"
               rel="noopener noreferrer"
