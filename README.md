@@ -138,18 +138,4 @@ Utilisez Postman ou Swagger pour tester toutes les routes :
 
 ---
 
-## ✅ Objectif pédagogique
-
-> Ce projet a été réalisé dans le cadre d’un exercice noté avec pour objectif **20/20**, en respectant toutes les consignes de l’énoncé, avec une stack full JavaScript (MERN).
-
----
-
-## 📸 Aperçu
-
-![login](screenshots/login.png)
-![dashboard](screenshots/dashboard.png)
-![swagger](screenshots/swagger.png)
-
----
-
-## © Russell Catways – Projet pédagogique 2025
+## © Russell Catways – Azshira
