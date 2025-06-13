@@ -8,6 +8,6 @@ services:
     startCommand: node server.js
     envVars:
       - key: MONGO_URI
-        value: "À REMPLACER"
+        value: "mongodb+srv://russell:LA1UxqlMTgIjhwWC@cluster0.iwoe1fc.mongodb.net/"
       - key: JWT_SECRET
-        value: "À REMPLACER"
+        value: "tonsecretperso"
