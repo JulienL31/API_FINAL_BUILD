@@ -22,7 +22,7 @@ function Navbar() {
           <Link to="/catways" className="navbar-item">Catways</Link>
           <Link to="/reservations" className="navbar-item">Réservations</Link>
           <Link to="/users" className="navbar-item">Utilisateurs</Link>
-          <a href="http://localhost:5000/api-docs" className="navbar-item" target="_blank" rel="noreferrer">Documentation Swagger</a>
+          <a href="https://api-final-build.onrender.com/api-docs" className="navbar-item" target="_blank" rel="noreferrer">Documentation Swagger</a>
         </div>
 
         <div className="navbar-end">
