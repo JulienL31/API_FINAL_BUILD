@@ -17,6 +17,9 @@ const reservationRoutes = require('./routes/reservation.routes');
 
 const userController = require('./controllers/user.controller');
 
+const uri = process.env.MONGO_URI;
+const jwtSecret = process.env.JWT_SECRET;
+
 dotenv.config();
 connectDB();
 
